@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>
+			Kruche ciasto z rabarbarem i bezą
+		</title>
+	</head>
+	<body>
+		<h1>
+			Kruche ciasto z rabarbarem i bezą
+		</h1>
+		<img src="europa.jpg" align="right">
+		<p>
+			Na stronie znajdziesz informacje o stolicach europejskich:
+		<ul>
+		<li>
+			poznasz najważniejsze zabytki i obiekty tych miast,
+		</li>
+		<li>
+			zobaczysz ciekawe miejsca na fotografiach,
+		</li>
+		<li>
+			poznasz ciekawostki historyczne tych miast.
+		</li>
+		</ul>
+		</p>
+		<table border="2">
+			<tr>
+				<td><b>Państwo</b></td><td><b></b></td>
+			</tr>
+			<tr>
+				<td>Austria</td><td>Wiedeń</td>
+			</tr>
+			<tr>
+				<td>Dania</td><td>Kopenhaga</td>
+			</tr>
+			<tr>
+				<td>Francja</td><td>Paryż</td>
+			</tr>
+			<tr>
+				<td>Grecja</td><td>Ateny</td>
+			</tr>
+			<tr>
+				<td>Polska</td><td>Warszawa</td>
+			</tr>
+		</table>
+	</body>
+</html>
